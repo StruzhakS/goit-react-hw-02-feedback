@@ -1,7 +1,6 @@
 import { Component } from 'react';
 import s from './Feedback.module.css';
 import Statistics from 'components/Statistics/Statistics';
-import Notification from 'components/Notification/Notification';
 import FeedbackOptions from 'components/OnLeaveFeedback/FeedbackOptions';
 
 class Feedback extends Component {
